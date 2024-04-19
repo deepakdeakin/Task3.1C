@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="button_normal">#FF4081</color> <!-- Normal color for the button -->
+    <color name="button_selected">#2196F3</color> <!-- Color when the button is selected -->
+    <color name="button_correct">#00FF00</color> <!-- Color when the answer is correct -->
+    <color name="button_incorrect">#FF0000</color> <!-- Color when the answer is incorrect -->
+</resources>
